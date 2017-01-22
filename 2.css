@@ -1,0 +1,189 @@
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a.style1
+{
+   color: #FFD700;
+   text-decoration: underline;
+}
+a.style1:visited
+{
+   color: #FFD700;
+   text-decoration: underline;
+}
+a.style1:active
+{
+   color: #FF0000;
+   text-decoration: underline;
+}
+a.style1:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a.style2
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+a.style2:visited
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+a.style2:active
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+a.style2:hover
+{
+   color: #FFD700;
+   text-decoration: none;
+}
+a.style_tel
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+a.style_tel:visited
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+a.style_tel:active
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+a.style_tel:hover
+{
+   color: #FFFFFF;
+   text-decoration: none;
+}
+h1
+{
+   font-family: Verdana;
+   font-weight: bold;
+   font-size: 13px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h2
+{
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h3
+{
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 35px;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFD700;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h4
+{
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h5
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 19px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h6
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000080;
+   background-color: transparent;
+}
+.Table
+{
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+.text
+{
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 13px;
+   font-style: normal;
+   text-decoration: none;
+   color: #FFFFFF;
+   background-color: transparent;
+}

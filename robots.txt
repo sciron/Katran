@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Sitemap: http://katran-sochi.com/sitemap.xml
+Host: www.katran-sochi.com
